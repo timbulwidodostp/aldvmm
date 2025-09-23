@@ -2,4 +2,4 @@
 1
 2
 3
-p theildeco Produce refined Theil index decomposition by group and quantile Use theildeco With STATA 19
+p aldvmm Adjusted limited dependent variable mixture model Use aldvmm With STATA 19
