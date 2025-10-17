@@ -3,6 +3,8 @@ Adjusted limited dependent variable mixture model Use aldvmm With STATA 19
 
 Adjusted Limited Dependent Variable Mixture Models to EQ-5D Use aldvmm With STATA 19
 
+https://www.youtube.com/watch?v=d3p34sIZO3w
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
